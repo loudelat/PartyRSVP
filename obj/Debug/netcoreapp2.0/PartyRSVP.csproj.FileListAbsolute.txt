@@ -1,0 +1,11 @@
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\bin\Debug\netcoreapp2.0\PartyRSVP.deps.json
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\bin\Debug\netcoreapp2.0\PartyRSVP.runtimeconfig.json
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\bin\Debug\netcoreapp2.0\PartyRSVP.runtimeconfig.dev.json
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\bin\Debug\netcoreapp2.0\PartyRSVP.dll
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\bin\Debug\netcoreapp2.0\PartyRSVP.pdb
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\obj\Debug\netcoreapp2.0\PartyRSVP.csprojResolveAssemblyReference.cache
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\obj\Debug\netcoreapp2.0\PartyRSVP.csproj.CoreCompileInputs.cache
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\obj\Debug\netcoreapp2.0\PartyRSVP.AssemblyInfoInputs.cache
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\obj\Debug\netcoreapp2.0\PartyRSVP.AssemblyInfo.cs
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\obj\Debug\netcoreapp2.0\PartyRSVP.dll
+C:\Users\loude\Documents\Pers\LouSoftwareDeveloperBootcamp\SWD104\PartyRSVP\obj\Debug\netcoreapp2.0\PartyRSVP.pdb
