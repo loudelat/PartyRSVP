@@ -12537,33 +12537,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\loude\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/loudelat/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loude\\Documents\\Pers\\LouSoftwareDeveloperBootcamp\\SWD104\\PartyRSVP\\PartyRSVP.csproj",
+      "projectUniqueName": "/Users/loudelat/Projects/PartyRSVP/PartyRSVP.csproj",
       "projectName": "PartyRSVP",
-      "projectPath": "C:\\Users\\loude\\Documents\\Pers\\LouSoftwareDeveloperBootcamp\\SWD104\\PartyRSVP\\PartyRSVP.csproj",
-      "packagesPath": "C:\\Users\\loude\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loude\\Documents\\Pers\\LouSoftwareDeveloperBootcamp\\SWD104\\PartyRSVP\\obj\\",
+      "projectPath": "/Users/loudelat/Projects/PartyRSVP/PartyRSVP.csproj",
+      "packagesPath": "/Users/loudelat/.nuget/packages/",
+      "outputPath": "/Users/loudelat/Projects/PartyRSVP/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\loude\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "/Users/loudelat/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -12580,14 +12575,15 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
+          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "[2.0.7, )"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.0.0, )",
-            "autoReferenced": true
+            "version": "2.0.7"
           }
         },
         "imports": [

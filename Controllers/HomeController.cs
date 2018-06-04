@@ -10,9 +10,9 @@ namespace PartyRSVP.Controllers
 {
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        public ViewResult Index()
         {
-            return View();
+            return View("RSVP");
         }
 
         public IActionResult About()
