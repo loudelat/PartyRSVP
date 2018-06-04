@@ -1,8 +1,12 @@
 ﻿<Properties StartupConfiguration="{23B06465-89E1-4349-9A9B-ABBD8FC5D44A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Home/Rsvp.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/_ViewImports.cshtml">
     <Files>
-      <File FileName="Controllers/HomeController.cs" Line="15" Column="31" />
-      <File FileName="Views/Home/Rsvp.cshtml" Line="2" Column="11" />
+      <File FileName="Controllers/HomeController.cs" Line="26" Column="1" />
+      <File FileName="Views/Home/Rsvp.cshtml" Line="42" Column="55" />
+      <File FileName="Models/GuestResponse.cs" Line="23" Column="4" />
+      <File FileName="Views/Home/Thanks.cshtml" Line="19" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="1" Column="1" />
+      <File FileName="Views/_ViewImports.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
